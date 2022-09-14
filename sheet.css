@@ -1,0 +1,27 @@
+body {
+    background-color:#d0e4fe;
+}
+h1 {
+    color:orange;
+    text-align:center;
+}
+p{
+    font-size:50px;
+}
+
+.chicken
+{
+width: 1600px;
+height: 800px;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+
+}
+.j{
+
+    text-align:center;
+    color: aliceblue;
+    font-size: 30px;
+
+}
